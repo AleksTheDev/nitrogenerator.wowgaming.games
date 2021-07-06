@@ -1,5 +1,5 @@
-import ReactLogo from './react-logo.svg';
-import './App.css';
+import ReactLogo from "../resources/react-logo.svg";
+import "../css/App.css";
 
 function App() {
   return (
@@ -9,10 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-        >
+        <a className="App-link" href="https://reactjs.org">
           Learn React
         </a>
       </header>
