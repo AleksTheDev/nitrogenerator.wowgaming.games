@@ -13,8 +13,7 @@ jobs:
           node-version: 16
 
       - name: Install 🔧
-        run: yarn --version
-        run: yarn --no-lockfile --non-interactive
+        run: yarn --version && yarn --no-lockfile --non-interactive
 
       - name: Build 🔨
         run: yarn build
