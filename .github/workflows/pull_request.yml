@@ -1,4 +1,4 @@
-name: Node CI
+name: Pull Request Node CI
 on: [pull_request]
 jobs:
   build-and-deploy:
