@@ -1,2 +1,0 @@
-(this["webpackJsonpnitrogenerator.wowgaming.games"]=this["webpackJsonpnitrogenerator.wowgaming.games"]||[]).push([[3],{28:function(a,e,i){"use strict";i.r(e),e.default=i.p+"static/media/rickroll.d93ca83e.gif"}}]);
-//# sourceMappingURL=3.9969f17b.chunk.js.map
