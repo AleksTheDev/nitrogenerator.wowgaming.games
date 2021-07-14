@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.203b00b7.chunk.css",
-    "main.js": "/static/js/main.50b68a71.chunk.js",
-    "main.js.map": "/static/js/main.50b68a71.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fe0cef84.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fe0cef84.js.map",
-    "static/js/2.8d27ad35.chunk.js": "/static/js/2.8d27ad35.chunk.js",
-    "static/js/2.8d27ad35.chunk.js.map": "/static/js/2.8d27ad35.chunk.js.map",
+    "main.css": "/static/css/main.783db4dc.chunk.css",
+    "main.js": "/static/js/main.a35a83ea.chunk.js",
+    "main.js.map": "/static/js/main.a35a83ea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1a86255.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1a86255.js.map",
+    "static/js/2.06c2e3cb.chunk.js": "/static/js/2.06c2e3cb.chunk.js",
+    "static/js/2.06c2e3cb.chunk.js.map": "/static/js/2.06c2e3cb.chunk.js.map",
     "static/css/3.32990f5e.chunk.css": "/static/css/3.32990f5e.chunk.css",
-    "static/js/3.a56902e4.chunk.js": "/static/js/3.a56902e4.chunk.js",
-    "static/js/3.a56902e4.chunk.js.map": "/static/js/3.a56902e4.chunk.js.map",
+    "static/js/3.dc761031.chunk.js": "/static/js/3.dc761031.chunk.js",
+    "static/js/3.dc761031.chunk.js.map": "/static/js/3.dc761031.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/3.32990f5e.chunk.css.map": "/static/css/3.32990f5e.chunk.css.map",
-    "static/css/main.203b00b7.chunk.css.map": "/static/css/main.203b00b7.chunk.css.map",
-    "static/js/2.8d27ad35.chunk.js.LICENSE.txt": "/static/js/2.8d27ad35.chunk.js.LICENSE.txt",
+    "static/css/main.783db4dc.chunk.css.map": "/static/css/main.783db4dc.chunk.css.map",
+    "static/js/2.06c2e3cb.chunk.js.LICENSE.txt": "/static/js/2.06c2e3cb.chunk.js.LICENSE.txt",
+    "static/media/nitro.a829380d.png": "/static/media/nitro.a829380d.png",
     "static/media/rickroll.d93ca83e.gif": "/static/media/rickroll.d93ca83e.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe0cef84.js",
-    "static/js/2.8d27ad35.chunk.js",
-    "static/css/main.203b00b7.chunk.css",
-    "static/js/main.50b68a71.chunk.js"
+    "static/js/runtime-main.b1a86255.js",
+    "static/js/2.06c2e3cb.chunk.js",
+    "static/css/main.783db4dc.chunk.css",
+    "static/js/main.a35a83ea.chunk.js"
   ]
 }
