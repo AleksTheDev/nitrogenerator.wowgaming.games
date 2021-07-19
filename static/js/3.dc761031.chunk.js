@@ -1,2 +1,0 @@
-(this["webpackJsonpnitrogenerator.wowgaming.games"]=this["webpackJsonpnitrogenerator.wowgaming.games"]||[]).push([[3],{29:function(e,i,r){},30:function(e,i,r){"use strict";r.r(i);var t=r.p+"static/media/rickroll.d93ca83e.gif",c=(r(29),r(1));i.default=function(){return Object(c.jsxs)("div",{children:[Object(c.jsx)("h1",{children:"You have been rickrolled!"}),Object(c.jsx)("img",{src:t,alt:"Nitro Logo",className:"rickrollGif"})]})}}}]);
-//# sourceMappingURL=3.dc761031.chunk.js.map
