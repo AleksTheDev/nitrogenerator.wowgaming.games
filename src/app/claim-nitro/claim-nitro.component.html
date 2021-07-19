@@ -1,0 +1,9 @@
+<h1 *ngIf="imgLoading">Loading...</h1>
+<h1 *ngIf="!imgLoading">You have been rickrolled!</h1>
+<img
+  src="../../assets/rickroll.gif"
+  alt="Nitro logo"
+  class="rickrollGif"
+  [hidden]="imgLoading"
+  (load)="imgLoading = false"
+/>
