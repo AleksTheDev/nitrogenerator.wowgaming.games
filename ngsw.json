@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1626703664172,
+  "timestamp": 1626711220437,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.e378a8d8cab0a7280c7a.js",
+        "/main.0bb99ffb620057b89e2d.js",
         "/manifest.webmanifest",
         "/polyfills.a032f316cce4c771a185.js",
         "/runtime.e26a836476846e7e0d02.js",
@@ -52,8 +52,8 @@
     "/assets/nitro.png": "4845825e907d4408af96fa6c9252530034ce3c9f",
     "/assets/rickroll.gif": "5a5eff55cabaf95a7d4e0c2e27be5a905d2f692b",
     "/favicon.ico": "cfa9c2e90b6a4f4cec00ed09c4f57f15caadbdbe",
-    "/index.html": "f4a6d3be9c00131eb5db5ce1ed3d91a23de6a551",
-    "/main.e378a8d8cab0a7280c7a.js": "474d91f0585c316e1e892647da7aa2a9dfeb238b",
+    "/index.html": "fe512c021ba5b6cfec1610d7926f618a1febb11a",
+    "/main.0bb99ffb620057b89e2d.js": "e610f56ebc668b143eded91d977739acb8f718e7",
     "/manifest.webmanifest": "8e47cd04f09a2696da945104f82d54d325637e7f",
     "/polyfills.a032f316cce4c771a185.js": "2daa54db25cf7b81e4f96b67758ece9539401ecd",
     "/runtime.e26a836476846e7e0d02.js": "9ec67cd631461c83c3cfa0f33b67818521ca1963",
