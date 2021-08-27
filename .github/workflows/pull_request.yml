@@ -18,9 +18,3 @@ jobs:
 
       - name: Build 🔨
         run: yarn build
-
-      - name: Auto merge 📥
-        uses: ridedott/merge-me-action@v2
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PRESET: DEPENDABOT_MINOR
