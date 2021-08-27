@@ -18,3 +18,8 @@ jobs:
 
       - name: Build 🔨
         run: yarn build
+
+      - name: Auto merge 📥
+        uses: ahmadnassri/action-dependabot-auto-merge@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
