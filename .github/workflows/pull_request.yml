@@ -20,6 +20,7 @@ jobs:
         run: yarn build
 
       - name: Auto merge 📥
-        uses: ahmadnassri/action-dependabot-auto-merge@v2
+        uses: ridedott/merge-me-action@v2
         with:
-          github-token: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          PRESET: DEPENDABOT_MINOR
