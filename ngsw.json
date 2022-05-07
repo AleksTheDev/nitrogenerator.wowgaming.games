@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1630075055169,
+  "timestamp": 1651950075715,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.8d5adb945a63fe2ae929.js",
+        "/main.f18d173ed8569291.js",
         "/manifest.webmanifest",
-        "/polyfills.a032f316cce4c771a185.js",
-        "/runtime.e26a836476846e7e0d02.js",
-        "/styles.ed41e828982e3778efa3.css"
+        "/polyfills.8fbb549b3add32f5.js",
+        "/runtime.b13b273b7e9d3ce6.js",
+        "/styles.2eacbabe7251bb95.css"
       ],
       "patterns": []
     },
@@ -52,12 +52,12 @@
     "/assets/nitro.png": "4845825e907d4408af96fa6c9252530034ce3c9f",
     "/assets/rickroll.gif": "5a5eff55cabaf95a7d4e0c2e27be5a905d2f692b",
     "/favicon.ico": "cfa9c2e90b6a4f4cec00ed09c4f57f15caadbdbe",
-    "/index.html": "dd8bd19240de28c9589209de2c1d1ff55456324c",
-    "/main.8d5adb945a63fe2ae929.js": "0d7ca3bf47920aba847709a15bf5355d2d3639a0",
+    "/index.html": "209b74c39ff46e83a4afa640c87be8512b58a151",
+    "/main.f18d173ed8569291.js": "edab50cda617f2b4e9f6f53b13a4b30ac997f7db",
     "/manifest.webmanifest": "5b49de9df20089e891c2ee71e7e6e9ee50fe44d8",
-    "/polyfills.a032f316cce4c771a185.js": "2daa54db25cf7b81e4f96b67758ece9539401ecd",
-    "/runtime.e26a836476846e7e0d02.js": "9ec67cd631461c83c3cfa0f33b67818521ca1963",
-    "/styles.ed41e828982e3778efa3.css": "481a7a3b9ed171b434c5e28099a1169d2feab733"
+    "/polyfills.8fbb549b3add32f5.js": "31f4cda5fd8316d8c0eb9292762851b0eed31e34",
+    "/runtime.b13b273b7e9d3ce6.js": "3a5300d8a6e8ef9a0d67b2451ab47f45bc325c90",
+    "/styles.2eacbabe7251bb95.css": "832706c4650e5109d4696e2327585f17fa29e2ed"
   },
   "navigationUrls": [
     {
