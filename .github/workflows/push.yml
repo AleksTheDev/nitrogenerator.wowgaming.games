@@ -22,9 +22,6 @@ jobs:
       - name: Build 🔨
         run: yarn build
 
-      - name: Create 404.html 🖨️
-        run: cp dist/index.html dist/404.html
-
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
