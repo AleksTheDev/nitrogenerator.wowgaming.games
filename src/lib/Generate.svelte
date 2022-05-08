@@ -1,6 +1,6 @@
 <script lang="ts">
-  import logo from '../assets/nitro.webp';
-  import rickroll from '../assets/rickroll.webm';
+  import logo from '../assets/nitro.png';
+  import rickroll from '../assets/rickroll.gif';
 
   export let buttonClick = () => {};
 </script>

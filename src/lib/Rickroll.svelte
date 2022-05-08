@@ -1,5 +1,5 @@
 <script lang="ts">
-    import rickroll from '../assets/rickroll.webm';
+    import rickroll from '../assets/rickroll.gif';
 </script>
 
 <h1>You have been rickrolled!</h1>
