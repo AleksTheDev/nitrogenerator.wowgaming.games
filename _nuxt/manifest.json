@@ -1,0 +1,40 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-327dd771.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/404.vue",
+      "pages/claim.vue",
+      "pages/index.vue"
+    ],
+    "css": [
+      "entry.46bfe31d.css"
+    ],
+    "assets": [
+      "rickroll.d4568e23.gif",
+      "nitro.c328086b.png"
+    ]
+  },
+  "pages/404.vue": {
+    "file": "404-84e0dfaa.mjs",
+    "src": "pages/404.vue",
+    "isDynamicEntry": true
+  },
+  "pages/claim.vue": {
+    "file": "claim-28629e8b.mjs",
+    "src": "pages/claim.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/index.vue": {
+    "file": "index-40ab29ad.mjs",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  }
+}
