@@ -4,6 +4,6 @@ import { defineNuxtConfig } from 'nuxt'
 export default defineNuxtConfig({
     ssr: false,
     app: {
-        baseURL: 'nitrogenerator.ddns.net'
+        baseURL: '.'
     }
 })
