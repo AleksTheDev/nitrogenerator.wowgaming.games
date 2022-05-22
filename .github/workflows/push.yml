@@ -20,7 +20,7 @@ jobs:
         run: yarn --non-interactive
 
       - name: Build 🔨
-        run: yarn build
+        run: yarn generate
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.3

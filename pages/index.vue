@@ -1,19 +1,10 @@
-<script lang="ts">
-  import logo from '../assets/nitro.png';
-  import rickroll from '../assets/rickroll.gif';
-
-  export let buttonClick = () => {};
-</script>
-
-<img src={logo} alt="Nitro Logo" />
-
-<h1>Nitro Generator V2</h1>
-
-<button on:click={buttonClick}>
-  Generate Nitro
-</button>
-
-<img src={rickroll} alt="Rickroll" hidden />
+<template>
+  <div class="index">
+    <img src="~/assets/img/nitro.png" alt="Nitro logo"/>
+    <h1>Nitro Generator V2</h1>
+    <button @click="$router.push('/claim')">Claim Nitro</button>
+  </div>
+</template>
 
 <style>
   img {

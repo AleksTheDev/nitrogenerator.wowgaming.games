@@ -1,15 +1,8 @@
 {
-  "extends": "@tsconfig/svelte/tsconfig.json",
+  // https://v3.nuxtjs.org/concepts/typescript
+  "extends": "./.nuxt/tsconfig.json",
   "compilerOptions": {
-    "target": "esnext",
-    "useDefineForClassFields": true,
-    "module": "esnext",
-    "resolveJsonModule": true,
-    "baseUrl": ".",
-    "allowJs": true,
-    "checkJs": true,
-    "isolatedModules": true
-  },
-  "include": ["src/**/*.d.ts", "src/**/*.ts", "src/**/*.js", "src/**/*.svelte"],
-  "references": [{ "path": "./tsconfig.node.json" }]
+    "jsx": "preserve",
+    "allowJs": true
+  }
 }
