@@ -23,7 +23,7 @@ jobs:
         run: yarn generate
 
       - name: Delete unused directories and create 404.html ⚙️
-        run: cp dist/404/index.html dist/404.html && rm -rf dist/200 && rm -rf dist/404
+        run: cp dist/200/index.html dist/404.html && rm -rf dist/200 && rm -rf dist/404
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.3
