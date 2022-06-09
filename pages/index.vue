@@ -2,7 +2,7 @@
   <div class="index">
     <img src="~/assets/img/nitro.png" alt="Nitro logo"/>
     <h1>Nitro Generator V2</h1>
-    <button @click="$router.push('/claim')">Claim Nitro</button>
+    <button @click="$router.push('/claim')">Generate Nitro</button>
   </div>
 </template>
 
