@@ -1,1 +1,0 @@
-import{_ as r,o as s,c as n,d as e,e as i}from"./entry-327dd771.mjs";const a={},c={class:"index"},l=e("img",{src:i,alt:"Nitro logo"},null,-1),_=e("h1",null,"Nitro Generator V2",-1);function d(t,o){return s(),n("div",c,[l,_,e("button",{onClick:o[0]||(o[0]=m=>t.$router.push("/claim"))},"Claim Nitro")])}var f=r(a,[["render",d]]);export{f as default};

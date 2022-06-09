@@ -1,0 +1,1 @@
+import{_ as r,o as s,c as n,d as e,e as a}from"./entry-5056d87f.mjs";const i={},c={class:"index"},_=e("img",{src:a,alt:"Nitro logo"},null,-1),l=e("h1",null,"Nitro Generator V2",-1);function d(t,o){return s(),n("div",c,[_,l,e("button",{onClick:o[0]||(o[0]=u=>t.$router.push("/claim"))},"Generate Nitro")])}var f=r(i,[["render",d]]);export{f as default};
