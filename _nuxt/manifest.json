@@ -1,6 +1,6 @@
 {
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "entry-5056d87f.mjs",
+    "file": "entry-0ae70f50.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
@@ -22,7 +22,7 @@
     "isDynamicEntry": true
   },
   "pages/claim.vue": {
-    "file": "claim-0351ee34.mjs",
+    "file": "claim-df7ec950.mjs",
     "src": "pages/claim.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -30,7 +30,7 @@
     ]
   },
   "pages/index.vue": {
-    "file": "index-91695015.mjs",
+    "file": "index-0f12bfc3.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
