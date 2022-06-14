@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  height: 50vmin;
+  width: 50vmin;
+}
+
+.h1 {
+  color: white;
+  font-size: 8vmin;
+  font-weight: bold;
+  line-height: 1.1;
+}

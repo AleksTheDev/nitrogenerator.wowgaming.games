@@ -17,4 +17,4 @@ jobs:
         run: yarn --non-interactive
 
       - name: Build 🔨
-        run: yarn generate
+        run: yarn export
