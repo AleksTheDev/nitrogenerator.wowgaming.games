@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "next": "latest",
-    "next-pwa": "^5.4.1",
+    "next-pwa": "^5.5.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
